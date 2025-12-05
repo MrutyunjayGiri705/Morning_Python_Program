@@ -1,0 +1,6 @@
+print("Hello")
+print("5")
+print(5)
+print(type("5"))
+print(type(5))
+print(15*3)
